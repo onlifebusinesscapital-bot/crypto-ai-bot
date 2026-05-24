@@ -1,0 +1,14 @@
+# Environment files
+.env
+*.env
+
+# Sensitive keys or data
+secrets.json
+api_keys.json
+
+# System files
+.DS_Store
+Thumbs.db
+
+# n8n temporary files
+*.n8n.backup
