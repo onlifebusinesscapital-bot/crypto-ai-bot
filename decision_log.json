@@ -1,0 +1,9 @@
+[
+  {
+    "timestamp": "2026-05-24T14:00:00Z",
+    "symbol": "BTCUSDT",
+    "price": 68500.00,
+    "signal": "HOLD",
+    "reason": "Initial setup, no trading yet"
+  }
+]
